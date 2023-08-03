@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679925017389",
+    "firebase_url": "https://chat-site-903ef-default-rtdb.firebaseio.com",
+    "project_id": "chat-site-903ef",
+    "storage_bucket": "chat-site-903ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679925017389:android:aeae264148d8dd03d501a4",
+        "android_client_info": {
+          "package_name": "com.rohan.app.edith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679925017389-c8jbqvon8hmbs40sur5sb5nvs76afmoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ31kaNNAYuHQAso46Fxb3igQuvxDwkgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679925017389-c8jbqvon8hmbs40sur5sb5nvs76afmoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
